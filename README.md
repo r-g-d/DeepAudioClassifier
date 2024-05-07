@@ -1,6 +1,6 @@
 # Deep Audio Classifier
-Detection of Capuchin bird calls from the recordings of the forests.
-Dataset - https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
+* Detection of Capuchin bird calls from the recordings of the forests.
+* Dataset - https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
 
 **Algorithm description**:-
 
